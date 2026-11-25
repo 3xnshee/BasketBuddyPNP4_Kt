@@ -1,4 +1,4 @@
-package com.example.basketbuddypnp4
+package com.example.basketbuddy
 
 import org.junit.Test
 

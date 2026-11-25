@@ -1,4 +1,4 @@
-package com.example.basketbuddypnp4
+package com.example.basketbuddy
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
